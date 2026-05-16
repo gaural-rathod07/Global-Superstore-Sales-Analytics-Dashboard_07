@@ -44,10 +44,8 @@ and customer segments.
 - Heavy discounting (>40%) almost always results in 
   loss-making orders (p < 0.0001, R² = 0.10)
 - **Consumer** segment leads in both Sales and Profit
-- **First Class** shipping is primary cost driver for 
-  Tables in US Corporate segment
-- **Canada** shows only Consumer segment activity — 
-  Corporate and Home Office nearly absent
+- **Same Day** shipping is the primary cost driver reducing profit margins in US Corporate segment
+
 
 ## 📸 Dashboard Preview
 <img width="1657" height="851" alt="Dashboard Image" src="https://github.com/user-attachments/assets/d54dd558-5d39-4c08-acb5-deb7e9da6c39" />
