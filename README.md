@@ -50,5 +50,4 @@ and customer segments.
   Corporate and Home Office nearly absent
 
 ## 📸 Dashboard Preview
-![Dashboard]
 <img width="1657" height="851" alt="Dashboard Image" src="https://github.com/user-attachments/assets/d54dd558-5d39-4c08-acb5-deb7e9da6c39" />
