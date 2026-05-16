@@ -4,9 +4,7 @@
 👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/gaural.rathod/viz/Tableau-Sales_17789505733910/GlobalSuperstoreAnalyticsDashboard?publish=yes)
 
 ## 📊 Project Overview
-An interactive sales analytics dashboard built using 
-Tableau Desktop as part of MSc Data Science and Analytics 
-coursework at Brunel University London.
+A data visualisation project exploring sales profitability, discount-profit correlation and shipping cost analysis using Tableau's interactive filtering and view coordination features.
 
 ## 📁 Dataset
 - **Name:** Global Superstore Dataset
