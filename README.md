@@ -14,6 +14,9 @@ A data visualisation project exploring sales profitability, discount-profit corr
 - **Markets:** US, EU, LATAM, Africa, APAC, EMEA, Canada
 - **Segments:** Consumer, Corporate, Home Office
 
+  ### 📜 Credits
+- **Dataset:** Global Superstore Dataset by Fatihilhan on Kaggle
+
 ## 👤 Persona
 **Alex Morgan** — Regional Sales Director at a global 
 retail corporation, responsible for monitoring and 
