@@ -49,6 +49,9 @@ and customer segments.
 - **Consumer** segment leads in both Sales and Profit
 - **Same Day** shipping is the primary cost driver reducing profit margins in US Corporate segment
 
-
 ## 📸 Dashboard Preview
 <img width="1657" height="851" alt="Dashboard Image" src="https://github.com/user-attachments/assets/d54dd558-5d39-4c08-acb5-deb7e9da6c39" />
+
+## Author
+**Gaural Rathod**  
+MSc Data Science and Analytics — Brunel University London
